@@ -1,0 +1,1 @@
+Ksmall(arr,5,
